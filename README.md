@@ -1,2 +1,7 @@
-# Curso_Dio-Projeto-I-Desafio_de_Projeto
-Primeiro Desafio de Projeto do Bootcamp TQI Fullstack.
+# Curso Dio: Desafio de Projeto I
+Primeiro Desafio de Projeto do **[Bootcamp TQI Fullstack](https://web.dio.me/track/tqi-fullstack-developer)**, cujo objetivo é aprofundar e aprender mais sobre repositórios e a criação do mesmo.
+
+
+
+## Links Importantes:
+[Guia de Syntax/Markdown](https://www.markdownguide.org/basic-syntax/)
