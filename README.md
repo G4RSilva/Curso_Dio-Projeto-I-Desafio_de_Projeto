@@ -1,5 +1,5 @@
 # Curso Dio: Desafio de Projeto I
-Primeiro Desafio de Projeto do **[Bootcamp TQI Fullstack](https://web.dio.me/track/tqi-fullstack-developer)**, cujo objetivo é aprofundar e aprender mais sobre repositórios e a criação do mesmo.
+Primeiro Desafio de Projeto do **[Bootcamp TQI Fullstack](https://web.dio.me/track/tqi-fullstack-developer)**, com o objetivo de aprofundar e aprender mais sobre repositórios e a criação do mesmo.
 
 
 
